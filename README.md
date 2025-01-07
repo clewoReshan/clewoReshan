@@ -1,4 +1,4 @@
-# Hi😊, I'm Reshan Edirisinghe <3
+# Hi, I'm Reshan Edirisinghe 
 
 ## About me
 <p> I am a software engineering undergraduate student at the uva wellassa University of Sri Lanka🎓. I specialize in <b>Developing Websites 💻 </b>. My deep passion for technology and relentless curiosity drive me to explore the ever-evolving world of software development continually. </p>
